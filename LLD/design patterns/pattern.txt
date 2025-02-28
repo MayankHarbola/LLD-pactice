@@ -1,0 +1,23 @@
+most important pattern to prepare
+
+1. Strategy -->imp done
+2. Observer --> imp done 
+3. Decorator --> imp done 
+4. Factory Method/Abstract Factory --> imp done 
+--- creational Design pattern ----
+5. Singleton --> imp done
+6. Builder --> imp done 
+7. Adapter --> imp
+
+
+
+--------
+Command
+Proxy
+------
+Iterator 
+Facade
+Mediator 
+
+
+
